@@ -1,4 +1,4 @@
-package com.tuuzed.androix.permissions
+package com.tuuzed.androidx.permissions
 
 import android.app.Activity
 import android.content.Context

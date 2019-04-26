@@ -4,8 +4,8 @@ import android.Manifest
 import android.os.Bundle
 import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
-import com.tuuzed.androix.permissions.AfterPermissionGranted
-import com.tuuzed.androix.permissions.RuntimePermissionCompat
+import com.tuuzed.androidx.permissions.AfterPermissionGranted
+import com.tuuzed.androidx.permissions.RuntimePermissionCompat
 import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
